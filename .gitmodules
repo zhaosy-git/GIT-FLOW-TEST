@@ -1,0 +1,3 @@
+[submodule "zsy-git"]
+	path = zsy-git
+	url = https://github.com/zhaosy-git/zsy-git
